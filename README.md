@@ -70,8 +70,14 @@
 - **Logic:** Complex availability tracking and admin dashboard.
 
 ---
+# 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hammad4544&show_icons=true&theme=tokyonight"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hammad4544&layout=compact&theme=tokyonight"/>
+</p>
 
-## 📊 GitHub Statistics <div align="center"> ![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hammad4544&show_icons=true&theme=radical&hide_border=true&count_private=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hammad4544&layout=compact&theme=radical&hide_border=true) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hammad4544&theme=radical&hide_border=true) </div> ---
+---
 
 # 📫 Connect With Me
 <p>
