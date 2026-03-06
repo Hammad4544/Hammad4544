@@ -1,140 +1,203 @@
-# Hi there, I'm Ahmed Hammad! 👋
+<h1 align="center">Hi 👋, I'm Ahmed Hammad</h1>
+<h3 align="center">.NET Full Stack Developer | ASP.NET Core | Angular</h3>
 
-**Web Developer** passionate about creating efficient, user-friendly applications with expertise in .NET Full Stack Development.
-
-🌍 **Location:** El Obour City, Qalyubiyya  
-🎓 **Education:** Bachelor's Degree in Computer Science, Zagazig University  
-💼 **Currently:** Completed intensive .NET Full Stack Web Development Track at ITI
-
----
-
-## 🛠️ Technical Skills
-
-### **Programming Languages**
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### **Backend Technologies**
-- **ASP.NET Core** | **ASP.NET MVC** | **Web API**
-- **Entity Framework** | **LINQ** | **OOP**
-- **JWT Authentication** | **ASP.NET Identity**
-- **SignalR** | **Redis**
-
-### **Frontend Technologies**
-- **HTML5** | **CSS3** | **JavaScript (ES6+)**
-- **Angular** | **TypeScript** | **RxJS**
-- **Responsive Design**
-
-### **Databases**
-- **SQL Server** | **Oracle** | **MySQL**
-- **T-SQL Programming**
-
-### **Tools & Version Control**
-- **Visual Studio** | **Git** | **GitHub** | **Postman**
+<p align="center">
+Passionate about building scalable web applications and transforming ideas into powerful digital solutions.
+</p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 About Me
 
-### **🛍️ HandMade E-Commerce Platform**
-*June 2025 - July 2025*
-
-A fully integrated e-commerce platform connecting buyers and sellers of handmade products.
-
-**Key Features:**
-- Secure JWT authentication and ASP.NET Identity integration
-- Real-time chat system using SignalR
-- Redis for caching and session management
-- Angular frontend with TypeScript and RxJS
-- Responsive design for optimal user experience
+- 💻 .NET Full Stack Developer  
+- 🎓 Graduate of **Computer Science – Zagazig University**
+- 🎯 Completed **.NET Full Stack Track at ITI**
+- 🌍 Based in **El Obour City, Egypt**
+- 🔥 Interested in **Backend Architecture, Scalable Systems, and Modern Web Development**
 
 ---
 
-### **🌐 E-Commerce Web Application**
-*March 2025 - April 2025*
+# 🛠 Tech Stack
 
-Modern e-commerce solution showcasing advanced UI/UX development and seamless backend integration.
+## 💻 Programming Languages
 
-**Technologies:** Angular, ASP.NET Core, SQL Server
-
----
-
-### **🤖 Robot Collecting Objects**
-*January 2022 - April 2022*
-
-Robotics project implementing advanced algorithms and machine learning for object recognition and collection.
-
-**Technologies:** Machine Learning, Advanced Algorithms
+<p>
+<img src="https://skillicons.dev/icons?i=cs,js,java" />
+</p>
 
 ---
 
-### **⚖️ Desktop Application for Law Firms**
-*March 2022 - June 2022*
+## ⚙️ Backend Development
 
-Self-learning project designed to streamline law firm operations and case management.
+<p>
+<img src="https://skillicons.dev/icons?i=dotnet" />
+<img src="https://skillicons.dev/icons?i=redis" />
+</p>
 
-**Technologies:** Desktop Development, Database Management
+**Technologies**
 
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hammad4544&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hammad4544&layout=compact&theme=radical&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hammad4544&theme=radical&hide_border=true)
-
-</div>
-
----
-
-## 🎓 Education & Training
-
-**🎯 Information Technology Institute (ITI)**  
-*Intensive .NET Full Stack Web Development Track* | June 2025 - July 2025
-
-**🎓 Zagazig University**  
-*Bachelor's Degree in Computer Science* | August 2019 - April 2023  
-*Faculty of Computer and Informatics*
+- ASP.NET Core
+- ASP.NET MVC
+- Web API
+- Entity Framework Core
+- LINQ
+- OOP & SOLID Principles
+- JWT Authentication
+- ASP.NET Identity
+- SignalR
+- Redis
 
 ---
 
-## 📚 Continuous Learning
+## 🎨 Frontend Development
 
-- **Advanced SQL Server & T-SQL Programming**
-- **C# Programming Fundamentals** 
-- **Web Development with JSP and Servlets**
-- **Java Programming Course**
+<p>
+<img src="https://skillicons.dev/icons?i=angular,ts,html,css,js" />
+</p>
 
----
-
-## 🌐 Languages
-
-- **Arabic:** Native
-- **English:** Advanced
+- Angular
+- TypeScript
+- RxJS
+- Responsive Design
 
 ---
 
-## 📫 Let's Connect!
+## 🗄 Databases
 
-<div align="center">
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=postgres" />
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-hammad-8aaa1a340/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hammad4544)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ah407397@gmail.com)
-
-</div>
+- SQL Server
+- Oracle
+- MySQL
+- T-SQL
 
 ---
 
-<div align="center">
-  
-### 💡 "Passionate about turning ideas into reality through code"
+## 🧰 Tools
 
-![Profile Views](https://komarev.com/ghpvc/?username=Hammad4544&color=brightgreen&style=flat-square)
+<p>
+<img src="https://skillicons.dev/icons?i=visualstudio,git,github,postman" />
+</p>
 
-</div>
+---
+
+# 🏆 Featured Projects
+
+## 🛍 Handmade E-Commerce Platform
+
+Full-featured marketplace for handmade products connecting sellers and buyers.
+
+**Tech Stack**
+
+ASP.NET Core • Angular • SQL Server • SignalR • Redis
+
+**Features**
+
+- Secure authentication using JWT & Identity
+- Real-time chat using SignalR
+- Redis caching
+- Responsive UI
+- RESTful API architecture
+
+---
+
+## 🍽 Restaurant Management System
+
+System designed to manage restaurant operations and orders.
+
+**Tech Stack**
+
+ASP.NET Core Web API • Angular • SQL Server
+
+**Features**
+
+- Menu and product management
+- Order system
+- Branch management
+- Authentication and authorization
+- RESTful APIs
+
+---
+
+## 🏨 Hotel Reservation System
+
+Hotel booking and management platform.
+
+**Tech Stack**
+
+ASP.NET Core • Entity Framework • SQL Server
+
+**Features**
+
+- Room reservation system
+- Customer management
+- Admin dashboard
+- Booking history tracking
+
+---
+
+## 🌐 E-Commerce Web Application
+
+Modern online store with product management and shopping cart.
+
+**Tech Stack**
+
+Angular • ASP.NET Core • SQL Server
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Hammad4544&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hammad4544&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🎓 Education
+
+**Information Technology Institute (ITI)**  
+.NET Full Stack Web Development Track
+
+**Zagazig University**  
+Bachelor's Degree in Computer Science
+
+---
+
+# 🌐 Languages
+
+Arabic: Native  
+English: Professional Working Proficiency
+
+---
+
+# 📫 Connect With Me
+
+<p>
+
+<a href="https://www.linkedin.com/in/ahmed-hammad-8aaa1a340/">
+<img src="https://img.shields.io/badge/LinkedIn-AhmedHammad-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:ah407397@gmail.com">
+<img src="https://img.shields.io/badge/Email-ah407397@gmail.com-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/Hammad4544">
+<img src="https://img.shields.io/badge/GitHub-Hammad4544-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+💡 <b>“Turning ideas into scalable software solutions.”</b>
+</p>
