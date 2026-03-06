@@ -71,22 +71,15 @@
 
 ---
 
-# 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hammad4544&show_icons=true&theme=tokyonight"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hammad4544&layout=compact&theme=tokyonight"/>
-</p>
-
----
+## 📊 GitHub Statistics <div align="center"> ![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hammad4544&show_icons=true&theme=radical&hide_border=true&count_private=true) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hammad4544&layout=compact&theme=radical&hide_border=true) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hammad4544&theme=radical&hide_border=true) </div> ---
 
 # 📫 Connect With Me
 <p>
 <a href="https://www.linkedin.com/in/ahmed-hammad-8aaa1a340/">
 <img src="https://img.shields.io/badge/LinkedIn-AhmedHammad-blue?style=for-the-badge&logo=linkedin"/>
 </a>
-<a href="mailto:ah407397@gmail.com">
-<img src="https://img.shields.io/badge/Email-ah407397@gmail.com-red?style=for-the-badge&logo=gmail"/>
+<a href="mailto:ahmedhammad103201@gmail.com">
+<img src="https://img.shields.io/badge/Email-ahmedhammad103201@gmail.com-red?style=for-the-badge&logo=gmail"/>
 </a>
 <a href="https://github.com/Hammad4544">
 <img src="https://img.shields.io/badge/GitHub-Hammad4544-black?style=for-the-badge&logo=github"/>
